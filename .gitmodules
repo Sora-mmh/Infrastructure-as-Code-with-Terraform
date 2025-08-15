@@ -3,4 +3,4 @@
 	url = https://github.com/Sora-mmh/iac-with-terraform.git
 [submodule "jenkins-pipe-with-terraform"]
 	path = jenkins-pipe-with-terraform
-	url = https://github.com/Sora-mmh/complete-CI-CD-with-terraform.git
+	url = https://github.com/Sora-mmh/jenkins-pipe-with-terraform.git
